@@ -3,7 +3,7 @@
 - Clone this repository 
 ```bash
 git clone https://github.com/vietanhnguyen742001/FARM_SER.git
-cd MemoCMT
+cd FARM_SER
 ```
 - Create a conda environment and install requirements
 ```bash
